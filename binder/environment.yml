@@ -1,0 +1,9 @@
+name: phoenix
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - pandas
+  - jupyter
+  - cartopy
+  - jupyter_contrib_nbextensions
